@@ -23,6 +23,5 @@ public class InteractionsRecursive {
            WebElement listValues = listElement.get(i);
            System.out.println("Number of elements is " + listValues.getText());
         }
-
     }
 }
